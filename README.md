@@ -3,6 +3,9 @@
 > Estudo sobre github
 > mais uma frase qualquer 
 
+![github](https://github.com/Dirack/Github/blob/main/github-social.png)
+
+
 * item 1
   - subitem 1
   - subitem 2
