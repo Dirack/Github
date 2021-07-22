@@ -1,10 +1,17 @@
 # Github
 
 > Estudo sobre github
-> Mais um texto qualquer
+> mais uma frase qualquer 
+
+* item 1
+  - subitem 1
+  - subitem 2
+  - subitem 3
+* item 2
+* item 3
 
 ### Lista de tarefas
 
-- [ ] Item 1
-- [ ] Item 2
-- [x] Item 3
+- [ ] tarefa 1
+- [x] tarefa 2
+- [ ] tarefa 3
