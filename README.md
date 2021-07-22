@@ -6,6 +6,12 @@
 ![github](https://github.com/Dirack/Github/blob/main/github-social.png)
 
 
+titulo 1 | item 1 | item 2 |
+---|---|---|
+rodolfo | x | |
+geofisicando |  | x |
+
+
 * item 1
   - subitem 1
   - subitem 2
