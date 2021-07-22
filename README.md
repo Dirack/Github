@@ -17,3 +17,17 @@
 - [ ] tarefa 3
 
 Visite o meu [site](https://dirack.github.io/)
+
+```c
+int main(void){
+  printf("olá mundo!");
+}
+```
+
+```py
+print("olá")
+```
+
+```sh
+echo "olá"
+```
